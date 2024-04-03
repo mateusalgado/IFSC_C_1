@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663855800 source:e:\ifsc\prog1\aulas\22.09.22\c\diasnomes\main.c
+	<stdio.h>
+	<stdlib.h>
+

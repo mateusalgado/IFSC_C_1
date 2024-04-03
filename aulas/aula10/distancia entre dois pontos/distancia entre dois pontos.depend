@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1668086604 source:f:\ifsc\prog1\aulas\aula10\distancia entre dois pontos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+

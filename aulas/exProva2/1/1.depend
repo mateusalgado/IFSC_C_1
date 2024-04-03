@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669946350 source:e:\ifsc\prog1\aulas\exemploprova2\exemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+

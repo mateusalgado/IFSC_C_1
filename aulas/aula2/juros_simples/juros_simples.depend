@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661995424 source:e:\ifsc\prog1\aulas\25.08.22\c\juros_simples\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

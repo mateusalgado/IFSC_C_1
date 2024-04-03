@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669298422 source:e:\ifsc\prog1\aulas\aula12\serie paralelo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

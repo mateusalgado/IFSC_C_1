@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670507682 source:e:\ifsc\prog1\aulas\aula14\troca x com vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

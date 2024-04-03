@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670779216 source:e:\ifsc\prog1\aulas\aula14\teste\main.c
+	<stdio.h>
+	<locale.h>
+

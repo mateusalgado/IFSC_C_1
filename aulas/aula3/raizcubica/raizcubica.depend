@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661433512 source:f:\ifsc\prog1\aulas\25.08.22\c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

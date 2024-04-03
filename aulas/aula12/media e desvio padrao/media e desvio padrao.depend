@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669730012 source:e:\ifsc\prog1\aulas\aula12\media e desvio padrao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

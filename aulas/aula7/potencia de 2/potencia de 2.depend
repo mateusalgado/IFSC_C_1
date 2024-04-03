@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667466140 source:e:\ifsc\prog1\aulas\aula7\potencia de 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+

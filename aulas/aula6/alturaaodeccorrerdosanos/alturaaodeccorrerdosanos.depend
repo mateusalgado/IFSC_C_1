@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665061944 source:e:\ifsc\prog1\aulas\06.10.22\c\alturaaodeccorrerdosanos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

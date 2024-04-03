@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1665020116 source:e:\ifsc\prog1\aulas\exprova1\6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+

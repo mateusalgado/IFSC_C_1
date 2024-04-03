@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1661985166 source:g:\prog i\08-25\pol\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1662472544 source:f:\ifsc\prog1\aulas\aula2\pol\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

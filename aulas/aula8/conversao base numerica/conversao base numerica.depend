@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665670806 source:e:\ifsc\prog1\aulas\13.10.22\c\conversao base numerica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<stdlib.h>
+

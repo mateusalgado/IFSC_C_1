@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1667481188 source:f:\ifsc\prog1\prova1\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+
+1667484103 source:c:\users\aluno\documents\prova 1\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+
+1667484104 source:e:\ifsc\prog1\aulas\prova 1\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1664461502 source:f:\ifsc\prog1\aulas\29.09.22\c\resistorenquanto\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1664640122 source:e:\ifsc\prog1\aulas\29.09.22\c\resistorenquanto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

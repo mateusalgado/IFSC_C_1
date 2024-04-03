@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663856434 source:e:\ifsc\prog1\aulas\22.09.22\c\tempotreino\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

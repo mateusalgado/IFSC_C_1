@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1669905298 source:d:\users\marco\documents\2022_2\codeblocks\provaexemploq2\main.c
+	<stdio.h>
+
+1670778866 source:e:\ifsc\prog1\aulas\exprova2\provaexemploq2\main.c
+	<stdio.h>
+	<locale.h>
+
